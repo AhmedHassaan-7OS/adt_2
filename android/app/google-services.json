@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704050812410",
+    "project_id": "adt2-3bb15",
+    "storage_bucket": "adt2-3bb15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704050812410:android:4e7db0569959b8d66e0043",
+        "android_client_info": {
+          "package_name": "com.example.adt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJwhnzh1Sfxgh-rzlPNOrVmrVaohL9xsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
