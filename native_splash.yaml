@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#42a5f5"
+  image: Images/Frame 7.png
+  android: true
+  android_gravity: center
+  android_12:
+    color: "#42a5f5"
+    image: Images/Frame 7.png
