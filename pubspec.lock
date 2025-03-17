@@ -259,6 +259,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.4.4"
+<<<<<<< HEAD
   flutter_slidable:
     dependency: "direct main"
     description:
@@ -267,6 +268,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.0"
+=======
+>>>>>>> origin/master
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -469,6 +472,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.1.2"
+<<<<<<< HEAD
   salomon_bottom_bar:
     dependency: "direct main"
     description:
@@ -477,6 +481,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.3.2"
+=======
+>>>>>>> origin/master
   sky_engine:
     dependency: transitive
     description: flutter
