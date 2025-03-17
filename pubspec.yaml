@@ -41,6 +41,11 @@ dependencies:
   flutter_bloc:
   equatable:
   flutter_native_splash: ^2.4.4
+<<<<<<< HEAD
+  salomon_bottom_bar: ^3.3.2
+  flutter_slidable: ^4.0.0
+=======
+>>>>>>> origin/master
 
 dev_dependencies:
   flutter_test:
